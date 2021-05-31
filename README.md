@@ -18,7 +18,7 @@ The Final Java API code sample using OAuth and Open Id Connect, from my blog at 
 
 ### Programming Languages
 
-* Java 13 and Spring Boot 2.4 are used to implement the REST API
+* Java 13 and Spring Boot 2.5 are used to implement the REST API
 
 ### Middleware Used
 
